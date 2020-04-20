@@ -40,10 +40,4 @@ c.deposita(10.00)
 puts "Saldo final é #{c.saldo}"
 puts c.nome
 
-
-
-
-
-
-
-
+Teste Emerson
